@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.join{
+    color:rgba(56, 219, 219, 0.648);
+    font-family: 'Roboto', sans-serif;
+    padding-left: 30px;
+
+}
+.days{
+    color:rgb(216, 203, 113);
+    padding-left: 30px;
+    font-size: 30px;
+}
+.gain{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20x;
+    padding-left: 30px;
+}
+.monthly{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 30px;
+   
+}
+.dollar{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 30px;
+
+  
+  
+
+}
+.per{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30;
+    padding-left: 38px;
+    position: absolute;
+    left: 88px;
+
+
+
+}
+.full{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30;
+    padding-left: 30px;
+}
+.why{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30;
+    padding-left: 30px;
+}
+.tutorial{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30;
+    padding-left: 30px;
+}
+.ruee{
+    background-color: rgb(73, 167, 128);
+    font-weight: bold;
+    position: absolute;
+    width: 600px;
+    height: 300px;
+}
+.naii{
+    background-color: rgb(129, 193, 156);
+    font-weight: bold;
+    position: absolute;
+    width: 670px;
+    height: 300px;
+    left: 608px;
+
+}
